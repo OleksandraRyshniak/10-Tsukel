@@ -117,3 +117,4 @@ for j in range(10):
         print(f"Suurem on {a2}")
         
 
+        gk
