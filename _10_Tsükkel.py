@@ -126,7 +126,7 @@ for j in range(10):
     elif a2>a1:
         print(f"Suurem on {a2}")
 
-#9
+#8
 print("Sentimeetrid / Inch ")
 print("--------------------")
 
